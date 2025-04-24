@@ -317,4 +317,4 @@ int sendchar (int c) {
 
 ## 项目源码仓库
 
-    项目源码: https://github.com/DAMIAN-CHEN/LPC1114_RTT.git
+  [https://github.com/DAMIAN-CHEN/LPC1114_RTT.git]
